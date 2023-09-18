@@ -4,4 +4,4 @@ MacOS/Windows 간 NFC(Normalization Form C) 형식으로 유니코드를 정규�
 <hr>
 
 v.1.0.0
-- 프로그램 구현
+- 프로그램 구현 (임시 삭제)
